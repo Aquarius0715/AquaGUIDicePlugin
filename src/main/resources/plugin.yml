@@ -1,0 +1,7 @@
+name: AquaGUIDice
+version: 1.0
+main: aquarius0715.aquaguidice.AquaGUIDIce
+api-version: 1.12.2
+commands:
+  diceg:
+    usage: /<command>
